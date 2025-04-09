@@ -1,0 +1,12 @@
+NLQ;Query Number;Execution 1;Execution 2;Execution 3;Execution 4;Execution 5;Execution 6;Execution 7;Execution 8;Execution 9;Execution 10;Promedio;Desviación
+1 - list of detected anomalies grouped by the collar in which they occurred,;Q1;0,3096;0,2629;0,2949;0,2677;0,2625;0,2797;0,258;0,2845;0,2743;0,2635;0,2758;0,0166
+2 - Where are my cows at right now? ;Q1;0,3292;0,3719;0,3591;0,4182;0,4246;0,4231;0,3957;0,4191;0,3536;0,3605;0,3855;0,0349
+3 - Are any of the cows running a fever?;Q1;0,2134;0,2552;0,2267;0,2333;0,2505;0,3107;0,2161;0,1997;0,2347;0,2197;0,236;0,0312
+4 - Have any of them wandered off or gotten stuck?;Q1;2,7869;2,9198;2,7416;2,7362;2,954;2,7637;2,825;2,7355;2,7128;2,852;2,8028;0,083
+5 - Which cows ain’t moving around much?;Q1;0,6003;0,5807;0,5873;0,6166;0,5938;0,5993;0,5919;0,5726;0,581;0,5873;0,5911;0,0124
+6 - How far are the cows moving each day?;Q1;6,355;6,1636;6,2065;6,1515;5,9218;6,0504;5,7561;5,986;6,0854;5,988;6,0664;0,1667
+7 - Did any of the collars set off an alarm?;Q1;0,3142;0,3871;0,2836;0,3429;0,3101;0,3281;0,3219;0,3131;0,3237;0,2848;0,321;0,0295
+8 - Are the cows staying bunched up or spread out?;Q1;4,2108;4,7865;4,4575;4,02;3,9266;4,325;3,9918;3,9033;4,1272;4,7037;4,2452;0,3168
+9 - Has any cow’s temperature dropped all of a sudden?;Q1;5,0998;4,6192;5,6932;4,7569;4,7356;4,6429;4,1984;4,5708;4,6487;4,7569;4,7722;0,3919
+10 - Which cows are eating less based on their movements?;Q1;0,396;0,3176;0,3276;0,3246;0,3445;0,3207;0,3117;0,3421;0,3098;0,3259;0,3321;0,0252
+11 - Is any cow acting out of the ordinary like pacing or lying down more than usual?;Q1;1,6776;1,6783;1,669;1,6461;1,5968;1,6686;1,6054;1,7944;1,6168;1,6395;1,6592;0,0561

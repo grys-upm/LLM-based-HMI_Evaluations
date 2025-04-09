@@ -1,0 +1,12 @@
+NLQ,Query Number,Execution 1,Execution 2,Execution 3,Execution 4,Execution 5,Execution 6,Execution 7,Execution 8,Execution 9,Execution 10,Promedio,Desviación
+1 - list of detected anomalies grouped by the collar in which they occurred.,Q1,0.2951,0.2631,0.2819,0.279,0.279,0.2859,0.2668,0.2879,0.2526,0.2509,0.2742,0.0151
+2 - Where are my cows at right now? ,Q1,0.3485,0.3508,0.39,0.3694,0.3854,0.4385,0.3595,0.3569,0.3863,0.4055,0.3791,0.0282
+3 - Are any of the cows running a fever?,Q1,0.2225,0.2012,0.2484,0.2187,0.2238,0.2375,0.2169,0.2265,0.2014,0.2257,0.2223,0.0144
+4 - Have any of them wandered off or gotten stuck?,Q1,4.2825,4.9026,4.7245,5.0462,4.4055,4.8134,4.8893,4.4842,4.1581,4.4326,4.6139,0.2998
+5 - Which cows ain’t moving around much?,Q1,0.6029,0.5785,0.6231,0.5874,0.6358,0.623,0.6096,0.685,0.6635,0.5763,0.6185,0.0357
+6 - How far are the cows moving each day?,Q1,6.1207,5.9975,6.0283,5.6958,6.284,5.8656,5.4028,7.1289,8.3732,6.7844,6.3681,0.8647
+7 - Did any of the collars set off an alarm?,Q1,0.2858,0.3182,0.3515,0.3324,0.3222,0.3182,0.2854,0.2882,0.3042,0.2805,0.3087,0.0237
+8 - Are the cows staying bunched up or spread out?,Q1,4.2849,4.1528,4.0128,5.5106,4.6963,6.091,5.0833,4.3929,4.9172,4.9845,4.8126,0.6479
+9 - Has any cow’s temperature dropped all of a sudden?,Q1,5.8241,6.0555,5.7995,6.3517,5.6859,5.1396,5.3217,5.8723,4.6149,5.3815,5.6047,0.5002
+"10 - Which cows are eating less, based on their movements?",Q1,0.3595,0.3454,0.3791,0.3846,0.3962,0.3758,0.382,0.3877,0.3853,0.4087,0.3804,0.0177
+"11 - Is any cow acting out of the ordinary, like pacing or lying down more than usual?",Q1,5.0729,5.5168,4.2525,4.5246,4.6133,4.4095,4.265,5.1696,4.6069,5.0743,4.7505,0.4297
